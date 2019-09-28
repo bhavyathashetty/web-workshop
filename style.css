@@ -1,0 +1,33 @@
+body {
+    background-color:lightgrey;
+}
+  h1 {
+    color:black;
+    text-align: center;
+  }
+  div {
+    border: 10px solid black;
+    padding: 25px 50px 75px 100px;
+    background-color: lightblue;
+  }
+  
+  
+  #p1 {
+    background-color:black;
+    font-size: 20px;
+    color:gold;
+    padding: 40px;
+  }
+
+  #p2 {
+    background-color:pink;
+    font-family: verdana;
+    font-size: 20px;
+    padding: 30px;
+  }
+
+  #p3 {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
